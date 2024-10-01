@@ -1,0 +1,14 @@
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\bin\Debug\net8.0\atv-14.exe
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\bin\Debug\net8.0\atv-14.deps.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\bin\Debug\net8.0\atv-14.runtimeconfig.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\bin\Debug\net8.0\atv-14.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\bin\Debug\net8.0\atv-14.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\atv-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\atv-14.AssemblyInfoInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\atv-14.AssemblyInfo.cs
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\atv-14.csproj.CoreCompileInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\atv-14.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\refint\atv-14.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\atv-14.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\atv-14.genruntimeconfig.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-14\atv-14\obj\Debug\net8.0\ref\atv-14.dll

@@ -1,0 +1,14 @@
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\bin\Debug\net8.0\atv-09.exe
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\bin\Debug\net8.0\atv-09.deps.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\bin\Debug\net8.0\atv-09.runtimeconfig.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\bin\Debug\net8.0\atv-09.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\bin\Debug\net8.0\atv-09.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\atv-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\atv-09.AssemblyInfoInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\atv-09.AssemblyInfo.cs
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\atv-09.csproj.CoreCompileInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\atv-09.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\refint\atv-09.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\atv-09.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\atv-09.genruntimeconfig.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-2\atv-09\atv-09\obj\Debug\net8.0\ref\atv-09.dll

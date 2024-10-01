@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-2\\atv-17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5144C-660E-4034-8CDE-E2C92EB48379}|..\\atv-09\\atv-09\\atv-09.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-2\\atv-09\\atv-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9573C57-98A5-45B8-8F54-4CE56014B8BE}|atv-17\\atv-17.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-2\\atv-17\\atv-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9573C57-98A5-45B8-8F54-4CE56014B8BE}|atv-17\\atv-17.csproj|solutionrelative:atv-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37717B94-8A91-4109-BAA1-6F83337E0FB6}|..\\atv-16\\atv-16\\atv-16.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-2\\atv-16\\atv-16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-2\\atv-09\\atv-09\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atv-09\\atv-09\\Program.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-2\\atv-09\\atv-09\\Program.cs",
+              "RelativeToolTip": "..\\atv-09\\atv-09\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:31:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-2\\atv-16\\atv-16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atv-16\\atv-16\\Program.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-2\\atv-16\\atv-16\\Program.cs",
+              "RelativeToolTip": "..\\atv-16\\atv-16\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:36:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-2\\atv-17\\atv-17\\Program.cs",
+              "RelativeDocumentMoniker": "atv-17\\Program.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-2\\atv-17\\atv-17\\Program.cs",
+              "RelativeToolTip": "atv-17\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:41:35.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
